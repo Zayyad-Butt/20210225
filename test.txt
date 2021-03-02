@@ -1,3 +1,3 @@
-This is test file for github. Here i made change in Local directory.
+conflict has been solved.
 Let us see what changes effected it.
 Changes made on GitHub.
